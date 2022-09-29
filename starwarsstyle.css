@@ -1,0 +1,26 @@
+* {margin:0 ;}
+
+header {
+   
+        color: #ffe81f;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-25_bc15ec98.jpeg?download=true");
+           
+        } 
+
+h2 {background-color: #ffe81f;
+    text-align: center;
+}       
+
+ul{list-style: none;}
+li{list-style: none;}
+#Darth {font-size: 20px;
+        font-family:'Times New Roman', Times, serif;
+}     
+.imperio {background-color: red;
+      
+        }
+.rebeldes {background-color: blue;
+        text-align: right;
+}
